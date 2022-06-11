@@ -1,2 +1,1 @@
-
-"my second edited commit"
+Hot fix
